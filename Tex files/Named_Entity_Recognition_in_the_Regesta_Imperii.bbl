@@ -1,0 +1,49 @@
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bartsch and
+  Weber(2015)}]{bartsch_linguisticsweb:tutorials:linguistics_tutorials:automaticannotation:stanford_ner_2015}
+Bartsch and Weber. 2015.
+\newblock \href
+  {http://www.linguisticsweb.org/doku.php?id=linguisticsweb:tutorials:linguistics_tutorials:automaticannotation:stanford_ner}
+  {Stanford named entity recognizer}.
+
+\bibitem[{Benikova et~al.(2014)Benikova, Biemann, and
+  Reznicek}]{benikova_nosta-d_nodate}
+Darina Benikova, Chris Biemann, and Marc Reznicek. 2014.
+\newblock \href
+  {https://www.tk.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_LangTech/publications/BenikovaBiemannReznicek_LREC2014_GermanNER.pdf}
+  {{NoSta}-{D} {Named} {Entity} {Annotation} for {German}: {Guidelines} and
+  {Dataset}}.
+\newblock page 1 of 8.
+
+\bibitem[{Debus(2012)}]{debus2012namenkunde}
+Friedhelm Debus. 2012.
+\newblock \href {http://scans.hebis.de/HEBCGI/show.pl?30347844_toc.pdf}
+  {\emph{Namenkunde und Namengeschichte : eine Einf{\"u}hrung}}, volume~51 of
+  \emph{Grundlagen der Germanistik}.
+\newblock Berlin.
+
+\bibitem[{Jurafsky and Martin(2017)}]{jurafsky_speech_2017}
+Daniel Jurafsky and James~H. Martin. 2017.
+\newblock \href {https://web.stanford.edu/~jurafsky/slp3/} {\emph{Speech and
+  {Language} {Processing}. {An} {Introduction} to {Natural} {Language}
+  {Processing}, {Computational} {Linguistics}, and {Speech} {Recognition}}},
+  third edition edition.
+
+\bibitem[{Rolker(2014)}]{rolker_spiel_2014}
+Christof Rolker. 2014.
+\newblock \href
+  {http://deposit.d-nb.de/cgi-bin/dokserv?id=4743382&prov=M&dok_var=1&dok_ext=htm}
+  {\emph{Das {Spiel} der {Namen}. {Familie}, {Verwandtschaft} und {Geschlecht}
+  im sp{\"a}tmittelalterlichen {Konstanz}}}.
+\newblock {PhD} {Thesis}, Ostfildern.
+
+\bibitem[{R{\"u}bsamen and Manz(2013)}]{rubsamen_accumulated_nodate}
+Dieter R{\"u}bsamen and Manz Manz. 2013.
+\newblock \href
+  {http://www.regesta-imperii.de/fileadmin/user_upload/downloads/ri_xiii_komplett.pdf}
+  {Accumulated {Register}. {Regesten} {Kaiser} {Friedrichs} {III}.
+  (1440-1493)}.
+
+\end{thebibliography}
